@@ -1,3 +1,3 @@
 # kokoa-clone-update
 
-CSS got so much better!
+HTML is so much fun!
